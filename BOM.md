@@ -17,7 +17,7 @@
 | [Rotary encoder with switch](https://www.aliexpress.com/item/1005006127287538.html?spm=a2g0o.productlist.main.21.694e7c13SheHkn&algo_pvid=05ed1a90-2cec-40c3-bc8c-627cca01c110&algo_exp_id=05ed1a90-2cec-40c3-bc8c-627cca01c110-20&pdp_ext_f=%7B%22order%22%3A%22562%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21NZD%214.74%214.69%21%21%212.61%212.58%21%402101c4ea17914275361505108e0f0d%2112000035878244633%21sea%21NZ%217856377020%21X%211%210%21n_tag%3A-29911%3Bd%3Ab87a462a%3Bm03_new_user%3A-29895&curPageLogUid=qhiprS7hJgH2&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006127287538%7C_p_origin_prod%3A) | Zooming in and out | 1 | $2.66 | $2.66 | [Aliexpress](https://www.aliexpress.com/item/1005006127287538.html?spm=a2g0o.productlist.main.21.694e7c13SheHkn&algo_pvid=05ed1a90-2cec-40c3-bc8c-627cca01c110&algo_exp_id=05ed1a90-2cec-40c3-bc8c-627cca01c110-20&pdp_ext_f=%7B%22order%22%3A%22562%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21NZD%214.74%214.69%21%21%212.61%212.58%21%402101c4ea17914275361505108e0f0d%2112000035878244633%21sea%21NZ%217856377020%21X%211%210%21n_tag%3A-29911%3Bd%3Ab87a462a%3Bm03_new_user%3A-29895&curPageLogUid=qhiprS7hJgH2&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006127287538%7C_p_origin_prod%3A) |
 | [ILI9341 Display](https://www.aliexpress.com/item/1005004557916570.html?spm=a2g0o.order_list.order_list_main.5.21ef1802hRcBEC) | for displaying the flight data | 1 | $8.18 | $8.18 | [Aliexpress](https://www.aliexpress.com/item/1005004557916570.html?spm=a2g0o.order_list.order_list_main.5.21ef1802hRcBEC) |
 | **Parts subtotal** | — | — | — | **$15.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$15.00** | — |
+| **Tax & shipping** | — | — | — | **$2.24** | — |
+| **Total** | — | — | — | **$17.24** | — |
 
-$15.00 left of the tier's funding.
+$12.76 left of the tier's funding.
